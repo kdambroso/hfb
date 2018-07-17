@@ -4,8 +4,8 @@
 body {
   margin-top:20px;
   font-family: Osaka;
-  background-color: ghostwhite;
-  color: inherit;
+  background-color: #B0FFED;
+  color: #2C0CE8;
 }
 
 h2, h3, h5 {
@@ -76,6 +76,6 @@ h1 {
   text-align: left;
 }
 
-.price {
-  color: orange;
+.pr {
+  color: #00B233;
 }
